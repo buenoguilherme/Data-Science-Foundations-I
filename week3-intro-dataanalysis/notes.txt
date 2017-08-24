@@ -1,0 +1,7 @@
+Data Analysis Process
+
+1. Question
+2. Wrangle
+3. Explore
+4. Draw Conclusions
+5. Communicate
